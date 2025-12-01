@@ -107,21 +107,6 @@ const MHIA = {
 
 ---
 
-<h3>Communities i hang out in</h3>
-
-<p align="center">
-<a href="https://discord.gg/Unq8gt8H">
-    <img src="https://img.shields.io/badge/Vyntrax_Dominion-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Vyntrax Dominion"/>
-</a>
-<a href="https://discord.gg/">
-    <img src="https://img.shields.io/badge/The_Codeverse_Hub-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="The Codeverse Hub"/>
-</a>
-</p>
-
-<br>
-
----
-
 <h3>Dev wisdom</h3>
 
 <p align="center">
