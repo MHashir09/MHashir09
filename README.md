@@ -69,38 +69,10 @@ const MHIA = {
 
 ---
 
-<h3>Github stats</h3>
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=MHashir09&theme=tokyonight&hide_border=true&background=0D1117&ring=A7A459&fire=A7A459&currStreakLabel=A7A459" alt="GitHub Streak" />
-</p>
-
-<br>
-
----
-
 <h3>Total stars</h3>
 
 <p align="center">
 <img src="https://img.shields.io/github/stars/MHashir09?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117&color=A7A459" alt="Total Stars" />
-</p>
-
-<br>
-
----
-
-<h3>Hit me up</h3>
-
-<p align="center">
-<a href="mailto:hashirzubair5742@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-</a>
-<a href="https://instagram.com/oyasumi_star09">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-</a>
-<a href="https://discord.com/users/1058768857969479720">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
-</a>
 </p>
 
 <br>
