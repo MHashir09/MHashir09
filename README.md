@@ -8,7 +8,7 @@
 
 <div align="center">
   <p>
-    Still in highschool · Linux nerd · Open-source enjoyer · Anime fan · Here to code and vibe
+    Highschool Student · Linux Cultist · FOSS Enthusiast · Otaku · Here to code, connect and have fun
   </p>
 </div>
 
@@ -21,10 +21,9 @@
 ```javascript
 const MHIA = {
     currentGrind: "web development",
-    learningPath: "The Odin Project",
     sideQuests: ["linux tweaking", "open source contributions", "random cool projects"],
     techInterests: ["web development", "competitive programming", "system tinkering"],
-    vibes: "I am a fairly chill guy hehe"
+    vibes: "I am a fairly chill person :3"
 };
 ```
 
@@ -56,6 +55,9 @@ const MHIA = {
   <a href="https://www.linux.org/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="50" height="50"/>
   </a>
+  <a href="https://www.lua.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/lua/lua-original.svg" alt="lua" width="50" height="50"/>
+  </a>
 </p>
 
 <br>
@@ -77,7 +79,7 @@ const MHIA = {
 
 ---
 
-<h3 align="center">Contribution Snake</h3>
+<h3 align="center">Contribution Chart</h3>
 
 <p align="center">
   <picture>
