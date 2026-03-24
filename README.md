@@ -18,6 +18,8 @@
 
 <h3 align="center">What I'm up to rn</h3>
 
+<div align="center">
+
 ```javascript
 const MHIA = {
     currentGrind: "web development",
@@ -26,6 +28,8 @@ const MHIA = {
     vibes: "I am a fairly chill person :3"
 };
 ```
+
+</div>
 
 <br>
 
@@ -79,7 +83,7 @@ const MHIA = {
 
 ---
 
-<h3 align="center">Contribution Chart</h3>
+<h3 align="center">Contribution Snake</h3>
 
 <p align="center">
   <picture>
